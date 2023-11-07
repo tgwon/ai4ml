@@ -4,6 +4,7 @@
  2023 - 2
 ### Ref
 * https://github.com/stefmolin/Hands-On-Data-Analysis-with-Pandas-2nd-edition
+* https://github.com/ageron/handson-ml2
 ### Folders
 * week : Exercise notebooks for corresponding weeks
 * project : 
