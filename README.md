@@ -7,4 +7,4 @@
 * https://github.com/ageron/handson-ml2
 ### Folders
 * week : Exercise notebooks for corresponding weeks
-* project : 
+* project : Dacon 대구 교통사고 피해 예측 AI 경진대회
